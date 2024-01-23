@@ -13,6 +13,7 @@ python main.py
 git clone
 cd app
 cd env 
+python -m venv env
 .\Scripts\activate
 pip install -r requirements.txt
 python main.py
