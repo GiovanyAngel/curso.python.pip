@@ -9,6 +9,8 @@ python main.py
 
 # App Project
 
+Para correr la aplicación en ambiente Windows
+
 ```sh
 git clone
 cd app
